@@ -19,14 +19,14 @@ const kn = {
   pronouns: "He" | "Him",
   skill: {
     programming: ["Javascript", "Typescript", "GO"],
-    scripting: "with Bash (a lot!) and Python",
+    scripting: "with Bash (a lot!)",
     architecture: ["Serverless Architecture", "Microservices", "Event-driven"],
     algorithmAcceleration: ["CUDA", "OpenMP", "OpenMPI", "Hadoop"],
   },
   languages: {
-    vietnamese: "… err… my native language",
+    vietnamese: "native",
     english: "is somehow fine",
-    français: "Pas mal :v ",
+    français: "Un peu",
   }
 };
 ```
