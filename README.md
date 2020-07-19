@@ -10,8 +10,9 @@
 - <img alt="GIF" src="https://github.com/huyhoang8398/huyhoang8398/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to flex README on the profile and annoy people with
 - <img alt="GIF" src="https://github.com/huyhoang8398/huyhoang8398/blob/master/assets/headbang.gif?raw=1" width="20vw" /> I’m looking to collaborate on weird ideas that would be least helpful
 - <img alt="GIF" src="https://github.com/huyhoang8398/huyhoang8398/blob/master/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with looking serious in README
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+- <img alt="GIF" src="https://github.com/huyhoang8398/huyhoang8398/blob/master/assets/happy.gif?raw=1" width="20vw" /> Btw I use Arch
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```javascript
 const kn = {
   name: Hoang,
