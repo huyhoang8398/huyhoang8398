@@ -1,5 +1,5 @@
 <h2> Xin chao, I'm Do Hoang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/huyhoang8398/huyhoang8398/blob/master/assets/giphy.gif" width="230">
+<img align='right' src="https://github.com/huyhoang8398/huyhoang8398/blob/master/assets/giphy.gif" width="250">
 <p><em>Master Information Security at <a href="https://www.unilim.fr">University of Limoges</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
@@ -26,16 +26,12 @@ const kn = {
     vietnamese: "… err… my native language",
     english: "is somehow fine",
     français: "Pas mal :v ",
-  },
-  funFact: "I use Arch btw",
+  }
 };
 ```
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&hide=["stars"]&show_icons=true)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" width="50"> <em><b>...I use Arch btw :)</em>
-
 ---
-
 ⭐️ From [@dohoang](https://github.com/huyhoang8398)
