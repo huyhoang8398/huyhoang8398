@@ -29,6 +29,6 @@ const kn = {
     français: "Un peu",
   }
 };
-
+```
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" width="50"> <em><b>...I use Arch btw :)</em>
 ---
