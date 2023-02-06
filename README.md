@@ -1,5 +1,5 @@
 <h2> Xin chao, I'm Do Hoang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif?raw=1" width="50"></h2>
-<img align='right' src="https://github.com/huyhoang8398/huyhoang8398/blob/master/assets/giphy.gif?raw=1" width="250">
+<img align='right' alt="GIF" src="https://github.com/huyhoang8398/huyhoang8398/blob/master/assets/giphy.gif?raw=1" width="250">
 <p><em>Site Reliability/System/DevOps Engineer at <a href="https://agilebio.com/">AgileBio</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?raw=1" width="30">
 </em></p>
 
