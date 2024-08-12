@@ -5,5 +5,5 @@
 
 [![Linkedin: dohoang](https://img.shields.io/badge/-dohoang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dohoang/)](https://www.linkedin.com/in/dohoang/)
 [![GitHub dohoang](https://img.shields.io/github/followers/huyhoang8398?label=follow&style=social)](https://github.com/huyhoang8398)
-[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)(https://huyhoang8398.github.io/blog)]
+[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://huyhoang8398.github.io/blog)
 ---
