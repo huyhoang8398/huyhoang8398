@@ -5,7 +5,5 @@
 
 [![Linkedin: dohoang](https://img.shields.io/badge/-dohoang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dohoang/)](https://www.linkedin.com/in/dohoang/)
 [![GitHub dohoang](https://img.shields.io/github/followers/huyhoang8398?label=follow&style=social)](https://github.com/huyhoang8398)
-
-![github-user-contribution](https://github.com/huyhoang8398/huyhoang8398/assets/113977203/14062376-3c0a-4750-947c-540eef0b9f26)
-
+![Blog](https://huyhoang8398.github.io/blog)
 ---
